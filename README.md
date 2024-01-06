@@ -1,1 +1,1 @@
-This readme
+Readme for Git-Lern-Project
